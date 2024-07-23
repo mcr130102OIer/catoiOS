@@ -3,7 +3,7 @@
 ---
 
 
-# 点我跳转至[ **开发部**](/iframe/dev.html)、[ **下载处**](-------------)、[ **新闻域**](/iframe/news.html) 或者[ **核心团**](/iframe/star.html)
+# 点我跳转至[ **开发部**](https://vijos.org/d/catOS_dev/)、[ **下载处**](---)、[ **新闻域**](---) 或者[ **核心团**](https://vijos.org/d/catOS_star/)
 ### [ **catoiOS介绍**](https://www.cnblogs.com/mcr130102/p/18253118)
 # [参加catoiOS开发部测试](/d/catOS_test/)
 
