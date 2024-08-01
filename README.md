@@ -4,7 +4,7 @@
 # [ **开发部界面**](https://vijos.org/d/catOS_dev/)
 # [ **核心团界面**](https://vijos.org/d/catOS_star/)
 # [ **catoiOS介绍**](/catoiOS/about.html)
-# [参加catoiOS开发部测试](/d/catOS_test/)
+# [参加catoiOS开发部测试](https://vijos.org/d/catOS_test/)
 # [联系站长](https://github.com/mcr130102OIer/mcr130102/issues)
 # [catoiOS用户交流处](https://group.cnblogs.com/catoiOS/)
 catoiOS官网总访问量:![暂时无法查看](https://badges.toozhao.com/badges/01HTRH97ND3F246V3HVM8HCJ0X/blue.svg)
