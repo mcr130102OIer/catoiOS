@@ -1,9 +1,9 @@
 # ![catoiOS2.0官网](https://pic.imgdb.cn/item/66701716d9c307b7e95e6be5.png)
 ---
-# [**下载最新版catoiOS**](https://mcr130102OIer.github.io/catoiOS/download.html)
+# [**下载最新版catoiOS**](https://mcr130102OIer.github.io/catoiOS/download)
 # [ **开发部界面**](https://vijos.org/d/catOS_dev/)
 # [ **核心团界面**](https://vijos.org/d/catOS_star/)
-# [ **catoiOS介绍**](/catoiOS/about.html)
+# [ **catoiOS介绍**](/catoiOS/)
 # [参加catoiOS开发部测试](https://vijos.org/d/catOS_test/)
 # [联系站长](https://github.com/mcr130102OIer/mcr130102/issues)
 # [catoiOS用户交流处](https://group.cnblogs.com/catoiOS/)
